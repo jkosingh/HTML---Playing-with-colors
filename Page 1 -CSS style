@@ -1,0 +1,23 @@
+div.cblock {
+  width: 4em;
+  height: 2em;
+  border: 1px solid black;
+}
+#a_dog {
+  background-color: #6ee;
+}
+#b {
+  background-color: #04F;
+}
+#c {
+  background-color: #ddd;
+}
+#d {
+  background-color: #faa;
+}
+#e {
+  background-color: #fea;
+}
+#f {
+  background-color: #ff0;
+}
